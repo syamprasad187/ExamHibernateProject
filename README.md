@@ -1,0 +1,2 @@
+# ExamHibernateProject
+Inheritance Mapping
